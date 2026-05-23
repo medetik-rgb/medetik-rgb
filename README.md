@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**medetik-rgb/medetik-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Заголовок-приветствие -->
+  <h1>Hey, I'm Shakir Medet 👋</h1>
+  <h3> Welcome to my profile</h3>
+  
+  <p><b>Full-Stack Developer | Almaty, Kazakhstan</b></p>
 
-Here are some ideas to get you started:
+  <!-- Кнопки соцсетей (замените ВАШ_НИК на реальные юзернеймы) -->
+  <a href="https://instagram.com/swmer_r" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/medetjan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
