@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<h1>⚡ SHAKIR MEDET ⚡</h1>
+<h1> Shakir Medet </h1>
 
 <h2>WEB · SOFTWARE · MACHINE LEARNING</h2>
 
