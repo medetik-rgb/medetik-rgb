@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<h1> Shakir Medet </h1>
+<h1>👨‍💻Shakir Medet</h1>
 
 <h2>WEB · SOFTWARE · MACHINE LEARNING</h2>
 
@@ -118,20 +118,25 @@ SHAKIR@ALA
 <br />
 
 <img
-  src="https://skillicons.dev/icons?i=python,django,react,php,docker,cs&theme=dark&perline=6"
-  height="94"
-  alt="Python, Django, React, PHP, Docker and C Sharp"
+  src="https://skillicons.dev/icons?i=python,django,react,php,docker,cs,laravel&theme=dark"
+  height="82"
+  alt="Python, Django, React, PHP, Docker, C Sharp and Laravel"
+/>
+
+<br /><br />
+
+<img
+  src="https://skillicons.dev/icons?i=postgres,git,bash,ts,mongodb,nodejs&theme=dark"
+  height="82"
+  alt="pgAdmin PostgreSQL, Git Bash, TypeScript, MongoDB and Node.js"
 />
 
 <br /><br />
 
 <sub>
-  PYTHON &nbsp;·&nbsp;
-  DJANGO &nbsp;·&nbsp;
-  REACT &nbsp;·&nbsp;
-  PHP &nbsp;·&nbsp;
-  DOCKER &nbsp;·&nbsp;
-  C#
+  PYTHON · DJANGO · REACT · PHP · DOCKER · C# · LARAVEL
+  <br /><br />
+  PGADMIN / POSTGRESQL · GIT BASH · TYPESCRIPT · MONGODB · NODE.JS
 </sub>
 
 </div>
@@ -154,8 +159,13 @@ SHAKIR@ALA
   alt="Shakir Medet GitHub contribution details"
 />
 
+<br /><br />
 
-
+<img
+  src="https://ghchart.rshah.org/0969DA/medetik-rgb"
+  width="100%"
+  alt="Shakir Medet contribution calendar"
+/>
 
 </div>
 
