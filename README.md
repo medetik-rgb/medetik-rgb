@@ -7,7 +7,7 @@
 
 <h1>👨‍💻Shakir Medet</h1>
 
-<h2>WEB · SOFTWARE · MACHINE LEARNING</h2>
+<h1>WEB · SOFTWARE · MACHINE LEARNING</h1>
 
 <p>
   <samp>
