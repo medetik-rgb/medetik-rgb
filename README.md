@@ -159,13 +159,7 @@ SHAKIR@ALA
   alt="Shakir Medet GitHub contribution details"
 />
 
-<br /><br />
 
-<img
-  src="https://ghchart.rshah.org/0969DA/medetik-rgb"
-  width="100%"
-  alt="Shakir Medet contribution calendar"
-/>
 
 </div>
 
