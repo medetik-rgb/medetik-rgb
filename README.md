@@ -154,13 +154,6 @@ SHAKIR@ALA
   alt="Shakir Medet GitHub contribution details"
 />
 
-<br /><br />
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medetik-rgb&amp;theme=github_dark"
-  width="62%"
-  alt="Shakir Medet GitHub statistics"
-/>
 
 <br /><br />
 
